@@ -18,3 +18,30 @@ Next time, I would like to have more time to do all the things that I wanted to 
 I strayed quite far from the game design document. There was only one enemy (and the enemy moves, instead of being stationary), no intro screen or character classes to choose from, my algorithm in the document wasn't fully fleshed out, and even if it was it wouldn't be the most practical to follow.
 
 I stayed on track with the general idea of the game, I had the collisions working (somewhat), and I was able to get some cool sounds in the game. I was also able to make an end screen after the enemy or character was defeated.
+
+
+LINKS FOR RESOURCES USED:
+
+missHit.wav:
+https://opengameart.org/content/wind-hit-time-morph
+
+HitSound.wav:
+https://opengameart.org/content/ripping-into-meat
+
+winMusic1.wav:
+https://opengameart.org/content/win-music-1
+
+loseMusic1.wav:
+https://opengameart.org/content/lose-music-1
+
+Dungeon.wav:
+https://opengameart.org/content/dungeon-02
+
+idle_001_0.png:
+https://opengameart.org/content/character-spritesheet-duck
+
+ant_2.png:
+https://opengameart.org/content/walking-ant-with-parts-and-rigged-spriter-file
+
+mockup_5.png:
+https://opengameart.org/content/a-cute-dungeon
